@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares JBL Tune 520BT",
+    "type": "Auriculares Inalámbricos",
+    "brand": "JBL",
+    "category": "audio",
+    "rating": 3,
+    "imgUrl": "",
+    "available": true,
+    "price": 89999,
+    "percentageDiscount": 15,
+    "stock": 3,
+    "description": "YEAHHH"
+  },
+  {
+    "id": 2,
+    "name": "Guitarra Eléctrica Stratocaster",
+    "type": "Guitarra",
+    "brand": "Fender",
+    "category": "musica",
+    "rating": 5,
+    "imgUrl": "",
+    "available": true,
+    "price": 1250000,
+    "percentageDiscount": 0,
+    "stock": 40,
+    "description": "YEAHHH"
+  }
+]
